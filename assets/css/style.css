@@ -1,9 +1,3 @@
-/**
-* Template Name: Rahul Pandey - v4.3.0
-* Template URL: https://bootstrapmade.com/Rahul Pandey-free-bootstrap-cv-resume-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 /*--------------------------------------------------------------
 # General
@@ -200,7 +194,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
   font-size: 15px;
   font-weight: 600;
-  color: #888888;
+  color: #000000;
   white-space: nowrap;
   transition: 0.3s;
   position: relative;
@@ -231,7 +225,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #222222;
+  color: #221313;
 }
 
 .navbar .dropdown ul {
@@ -244,7 +238,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 99;
   opacity: 0;
   visibility: hidden;
-  background: #fff;
+  background: rgb(17, 17, 17);
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
   border-radius: 4px;
@@ -431,7 +425,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero h2 {
-  color: #6f6f6f;
+  color: #000000;
   margin: 10px 0 0 0;
   font-size: 22px;
 }
@@ -459,6 +453,7 @@ h1, h2, h3, h4, h5, h6 {
   #hero {
     background-attachment: fixed;
   }
+  
 }
 
 @media (max-width: 992px) {
